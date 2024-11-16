@@ -1,0 +1,76 @@
+#neubar {
+    background: #000000;
+    box-shadow: 4px 6px 12px rgba(0,0,0,0.4)
+    
+  }
+  
+  .nav-item .active {
+    border-radius: 6px;
+    background: linear-gradient(145deg, rgb(104, 107, 107), #000000);
+    box-shadow:  4px 4px 8px rgb(13, 255, 0),
+                 -4px -4px 8px rgb(234, 255, 1);
+                 
+  }
+  #neubar .dropdown-menu a:hover {
+    color: #cc1717
+  }
+  #neubar .nav-item {
+    margin : auto 4px;
+    
+  }
+  #neubar a {
+  
+    padding-left:12px;
+    padding-right:12px;
+    color: rgb(232, 224, 12);
+  }
+  #neubar .dropdown-menu {
+    background : #545454
+  }
+  a.navbar-brand {
+    color: #99d010
+  }
+  h1{
+    color: rgb(232, 224, 12);
+    border-radius: 10px;
+    border-color: white;
+    background: linear-gradient(145deg, rgb(100, 102, 103), #000000);
+    box-shadow:  4px 4px 8px rgb(89, 255, 0),
+                 -4px -4px 8px rgb(251, 255, 2);
+    font-family: fantasy;
+    font-weight: bold;
+    
+  }
+  h2{
+    color: rgb(232, 224, 12);
+    border-radius: 10px;
+    border-color: white;
+    background: linear-gradient(145deg, rgb(100, 102, 103), #000000);
+    box-shadow:  4px 4px 8px rgb(89, 255, 0),
+                 -4px -4px 8px rgb(251, 255, 2);
+    font-family: fantasy;
+    font-weight: bold;
+  }
+  body{
+
+  }
+  h3{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(232, 224, 12);
+    font-size: 50px;
+  }
+
+  p{
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: white;
+    background: linear-gradient(145deg, rgb(119, 121, 122), #000000);
+    box-shadow:  4px 4px 8px rgb(13, 255, 0),
+                 -4px -4px 8px rgb(232, 224, 12);
+    font-family: verdana;
+    padding: 20px;
+    margin: px;
+  }
+
+ 
